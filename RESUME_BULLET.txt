@@ -1,0 +1,1 @@
+Built a reproducible AI evaluation framework to benchmark economic and business reasoning, measuring quantitative accuracy, causal reasoning, consistency, and unsupported-claim risk across structured synthetic tasks.
